@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20빅데이터%20&&animation=blink)
 
 
-|Header|
+|Tool List|
 |--|
 |Python|
 |Numpy|
